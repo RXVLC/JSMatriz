@@ -1,4 +1,4 @@
-Explicación paso a paso:
+Explicación paso a paso del script del cuadrado vacío:
 
 const { question } = require("readline-sync");: Importamos la función question de la biblioteca readline-sync. Esta función nos permite hacer preguntas al usuario desde la consola.
 
